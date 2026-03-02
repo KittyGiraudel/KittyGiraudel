@@ -11,7 +11,14 @@ I’m Kitty. I’m a transfeminine web engineer and engineering leader based in 
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
-Latest posts from [kittygiraudel.com](https://kittygiraudel.com) will appear here.
+
+| Date | Post |
+| ---- | ---- |
+| Mar 2026 | [**Stats Page with Eleventy**](https://kittygiraudel.com/2026/03/02/stats-page-with-11ty/) |
+| Mar 2026 | [**Tag pages with Eleventy**](https://kittygiraudel.com/2026/03/01/tag-pages-with-eleventy/) |
+| Feb 2026 | [**Injecting element in Liquid content**](https://kittygiraudel.com/2026/02/27/injecting-element-in-liquid-content/) |
+| Feb 2026 | [**Nerdy Design Details**](https://kittygiraudel.com/2026/02/26/nerdy-design-details/) |
+| Feb 2026 | [**Six months of Rust**](https://kittygiraudel.com/2026/02/25/six-months-of-rust/) |
 <!-- BLOG-POST-LIST:END -->
 
 ## Areas of focus
