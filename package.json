@@ -1,0 +1,13 @@
+{
+  "name": "kittygiraudel-profile",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update-readme": "node scripts/update-readme.mjs"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.5.0"
+  }
+}
+
