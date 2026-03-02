@@ -1,6 +1,6 @@
-# Hi, I'm Kitty
+# Hi, I'm Kitty ✨
 
-I’m Kitty. I’m a transfeminine web engineer and engineering leader based in Berlin, with nearly 15 years of experience, primarily focused on engineering excellence, accessibility, diversity and inclusion. In recent years, I have led engineering teams at N26, Gorillas, cofenster, and Scilife. For a longer version, [read more about me](https://kittygiraudel.com/about).
+I’m a transfeminine web engineer and engineering leader based in Berlin, with nearly 15 years of experience, primarily focused on engineering excellence, accessibility, diversity and inclusion. In recent years, I have led engineering teams at N26, Gorillas, cofenster, and Scilife. For a longer version, [read more about me](https://kittygiraudel.com/about).
 
 ## What I’m working on
 
