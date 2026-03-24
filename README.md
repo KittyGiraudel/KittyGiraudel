@@ -14,11 +14,11 @@ I’m a transfeminine web engineer and engineering leader based in Berlin, with 
 
 | Date | Post |
 | ---- | ---- |
+| Mar 2026 | [**Heading Anchors with Eleventy**](https://kittygiraudel.com/2026/03/21/heading-anchors-with-11ty/) |
 | Mar 2026 | [**Merging GitHub Repositories**](https://kittygiraudel.com/2026/03/20/merging-github-repositories/) |
 | Mar 2026 | [**Highlighting Footnotes**](https://kittygiraudel.com/2026/03/18/highlighting-footnotes/) |
 | Mar 2026 | [**Beautiful CLI prompt with Starship**](https://kittygiraudel.com/2026/03/13/beautiful-cli-prompt-with-starship/) |
 | Mar 2026 | [**Adding Tests to an Eleventy site**](https://kittygiraudel.com/2026/03/12/adding-tests-to-an-eleventy-site/) |
-| Mar 2026 | [**Serving Markdown to LLMs with Eleventy**](https://kittygiraudel.com/2026/03/11/serving-markdown-to-llms-with-11ty/) |
 <!-- BLOG-POST-LIST:END -->
 
 ## Areas of focus
