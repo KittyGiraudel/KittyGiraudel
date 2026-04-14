@@ -14,11 +14,11 @@ I’m a transfeminine web engineer and engineering leader based in Berlin, with 
 
 | Date | Post |
 | ---- | ---- |
+| Apr 2026 | [**Play sound when Claude idles (on macOS)**](https://kittygiraudel.com/2026/04/13/play-sound-on-claude-idle/) |
 | Apr 2026 | [**An Interactive Cover Component**](https://kittygiraudel.com/2026/04/09/an-interactive-cover-component/) |
 | Mar 2026 | [**Heading Anchors with Eleventy**](https://kittygiraudel.com/2026/03/21/heading-anchors-with-11ty/) |
 | Mar 2026 | [**Merging GitHub Repositories**](https://kittygiraudel.com/2026/03/20/merging-github-repositories/) |
 | Mar 2026 | [**Highlighting Footnotes**](https://kittygiraudel.com/2026/03/18/highlighting-footnotes/) |
-| Mar 2026 | [**Beautiful CLI prompt with Starship**](https://kittygiraudel.com/2026/03/13/beautiful-cli-prompt-with-starship/) |
 <!-- BLOG-POST-LIST:END -->
 
 ## Areas of focus
