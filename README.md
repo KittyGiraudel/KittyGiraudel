@@ -14,11 +14,11 @@ I’m a transfeminine web engineer and engineering leader based in Berlin, with 
 
 | Date | Post |
 | ---- | ---- |
+| May 2026 | [**Preserving DOM Changes Across Live Reloads**](https://kittygiraudel.com/2026/05/01/preserving-dom-changes-across-live-reloads/) |
 | Apr 2026 | [**Feature Toggles with Eleventy**](https://kittygiraudel.com/2026/04/30/feature-toggles-with-11ty/) |
 | Apr 2026 | [**You Cannot Spell “Pain” Without AI**](https://kittygiraudel.com/2026/04/29/you-cannot-spell-pain-without-ai/) |
 | Apr 2026 | [**Spring Cleaning**](https://kittygiraudel.com/2026/04/27/spring-cleaning/) |
 | Apr 2026 | [**Content Negotiation on Netlify**](https://kittygiraudel.com/2026/04/20/content-negotiation-on-netlify/) |
-| Apr 2026 | [**Play Sound When Claude Idles (on macOS)**](https://kittygiraudel.com/2026/04/13/play-sound-on-claude-idle/) |
 <!-- BLOG-POST-LIST:END -->
 
 ## Areas of focus
