@@ -14,11 +14,11 @@ I’m a transfeminine web engineer and engineering leader based in Berlin, with 
 
 | Date | Post |
 | ---- | ---- |
+| Jun 2026 | [**Typed Polymorphic React Component**](https://kittygiraudel.com/2026/06/19/typed-polymorphic-react-component/) |
 | May 2026 | [**Retrospective on My Job Search**](https://kittygiraudel.com/2026/05/25/retrospective-on-my-job-search/) |
 | May 2026 | [**Styles in Eleventy (Again)**](https://kittygiraudel.com/2026/05/11/styles-in-11ty-again/) |
 | May 2026 | [**On Take-Home Coding Assignments**](https://kittygiraudel.com/2026/05/08/on-take-home-coding-assignments/) |
 | May 2026 | [**Accessible Blog Search with Eleventy**](https://kittygiraudel.com/2026/05/07/blog-search-with-11ty/) |
-| May 2026 | [**Optimizing Images with Eleventy on Netlify**](https://kittygiraudel.com/2026/05/05/optimizing-images-with-11ty-on-netlify/) |
 <!-- BLOG-POST-LIST:END -->
 
 ## Areas of focus
